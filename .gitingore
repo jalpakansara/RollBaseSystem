@@ -1,0 +1,6 @@
+bravo_admin/migrations
+bravo_admin/__pycache__
+bravo_kids/__pycache__
+tutorials/__pycache__
+tutorials/migrations
+db.sqlite3
